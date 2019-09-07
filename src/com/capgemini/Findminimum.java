@@ -8,7 +8,7 @@ public class Findminimum {
 
 	public static void main(String[] args) {
 		
-		int[] a={1,2,3,4};
+		int[] a={1,2,3,4,5};
 		
 		Scanner s=new Scanner(System.in);
 		System.out.println("Enter the number");
